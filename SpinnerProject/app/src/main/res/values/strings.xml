@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name1">提示1</string>
+    <string name="app_name2">提示2</string>
+    <string name="app_name">SpinnerProject</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="books">
+      <item> 疯狂讲义</item>
+        <item> 安徒生童话</item>
+        <item> 心灵鸡汤</item>
+        <item> 人生</item>
+    </string-array>
+</resources>
